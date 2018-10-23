@@ -2,10 +2,10 @@
 plotting hotspots on truecolor/RGB/IR images
 
 1.required python extension packages:
- GDAL for python or osgeo
- georaster
- matplotlib
- mpltoolkits.basemap
+ GDAL for python or osgeo,
+ georaster,
+ matplotlib,
+ mpltoolkits.basemap,
  pyhdf
  
  to install these packages, search from https://www.lfd.uci.edu/~gohlke/pythonlibs/ or download from official site
